@@ -189,3 +189,14 @@ footer {
   text-align: left;
   align-items: center;
 }
+
+.btns {
+  background-color: rgb(5, 5, 5);
+  color: #fff;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  
+}
+
+.btns:hover {
+  box-shadow: 1.5px 1.5px 1.5px 1.5px rgba(85, 80, 80, 0.966);
+}

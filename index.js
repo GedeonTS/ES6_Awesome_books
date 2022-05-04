@@ -23,7 +23,7 @@ window.addEventListener('load', () => {
       if (i % 2 === 0) { return 'grey'; } return 'white';
     }
     if (arr[i].title !== '' || arr[i].author !== '') {
-      bookList.innerHTML += `<div class='bookWrapper ${assignClass()}'><p class='bookDetails'>"${arr[i].title}" by ${arr[i].author}</p><button id='${i}'>Remove</button></div>`;
+      bookList.innerHTML += `<div class='bookWrapper ${assignClass()}'><p class='bookDetails'>"${arr[i].title}" by ${arr[i].author}</p><button class="btns" id='${i}'>Remove</button></div>`;
     } else {
       bookList.innerHTML += '';
     }
