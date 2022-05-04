@@ -12,6 +12,10 @@ A list of books project, with the functionly of adding and removing books.
 
 You can have a copy of this repo run on your local machine by just directly cloning it.
 
+## Live Demo
+
+Click [here](https://gedeonts.github.io/ES6_Awesome_books/)!
+
 ### Prerequisites
 
 - Node.js
@@ -28,7 +32,7 @@ To get the output of our project make sure you have google Chrome, Mozila or any
 2. - [ ] Navigate to the directory where you want to add this repository
 3. - [ ] Run `git clone https://github.com/GedeonTS/ES6_Awesome_books.git`
 4. - [ ] Run `npm install` to install the necessary modules
-5. - [ ] Run Localy
+5. - [ ] Run Locally
 
 ## Authors
 
