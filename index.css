@@ -200,3 +200,18 @@ footer {
 .btns:hover {
   box-shadow: 1.5px 1.5px 1.5px 1.5px rgba(85, 80, 80, 0.966);
 }
+
+#btn {
+  background-color: rgb(41, 17, 41);
+  height: 30px;
+  color: #fff;
+}
+
+#btn:hover {
+  font-size: 17px;
+}
+
+#btn:active {
+  background-color:rgba(41, 17, 41, 0.63) ;
+  border: none;
+}
