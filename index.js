@@ -1,6 +1,6 @@
-import Pages from '../modules/Pages.js';
-import BookStore from '../modules/Bookstore.js';
-import DateTime from '../modules/date.js';
+import Pages from './modules/Pages.js';
+import BookStore from './modules/Bookstore.js';
+import DateTime from './modules/date.js';
 
 DateTime();
 
