@@ -10,6 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/GedeonTS/ES6_Awesome_books.git"
   },
+  "eslintIgnore": ["luxon.js"],
   "keywords": [],
   "author": "",
   "license": "ISC",
